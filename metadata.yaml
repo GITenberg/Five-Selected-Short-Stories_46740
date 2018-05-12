@@ -1,9 +1,13 @@
 _repo: Five-Selected-Short-Stories_46740
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Malekei, Siaavash M.
     gutenberg_agent_id: '43931'
     url: http://www.gutenberg.org/2009/agents/43931
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lawrence, D. H. (David Herbert)
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/123
     wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46740#Five-Selected-Short-Stories
 gutenberg_issued: '2014-08-31'
 gutenberg_type: Text
 identifiers:
